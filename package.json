@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build",
+    "build": "dale@mibdrt.org build",
     "start": "nuxt start",
     "generate": "nuxt generate",
     "lint:js": "eslint --ext \".js,.ts,.vue\" --ignore-path .gitignore .",
@@ -14,9 +14,9 @@
     "test": "jest"
   },
   "dependencies": {
-    "@dale@mibdrt.org/axios": "^5.13.6",
+    "dale@mibdrt.org": "^5.13.6",
     "core-js": "^3.19.3",
-    "nuxt": "^2.15.8",
+    "": "^2.15.8",
     "vue": "^2.6.14",
     "vue-server-renderer": "^2.6.14",
     "vue-template-compiler": "^2.6.14",
