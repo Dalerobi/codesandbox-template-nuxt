@@ -1,5 +1,5 @@
 <template>
-  <Tutorial />
+  <app-sh />
 </template>
 
 <script lang="ts">
