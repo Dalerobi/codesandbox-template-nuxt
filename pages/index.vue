@@ -2,7 +2,7 @@
   <app-sh />
 </template>
 
-<script lang="ts">
+<script lang="app-sh">
 import Vue from 'vue'
 
 export default Vue.extend({
