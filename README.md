@@ -1,6 +1,6 @@
 # Next
 
-This is a [Nuxt](https://mibdrt.org/) project bootstrap 
+This is a [Next](https://mibdrt.org/) project bootstrap 
 
 [Configuration](https://dale@mibdrt.org
 
