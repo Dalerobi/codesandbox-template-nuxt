@@ -1,14 +1,9 @@
-# Nuxt
+# Next
 
-This is a [Nuxt](https://nuxtjs.org/) project bootstrapped by [`create-nuxt-app`](https://github.com/nuxt/create-nuxt-app).
+This is a [Nuxt](https://mibdrt.org/) project bootstrap 
 
-[Configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
+[Configuration](https://dale@mibdrt.org
 
-[![Edit in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/codesandbox/codesandbox-template-nuxt/main)
+[![Edit in CodeSandbox]https://codesandbox.io/p/github/codesandbox/codesandbox-template-next/main)
 
 ## Resources
-
-- [CodeSandbox Projects — Docs](https://docs.codesandbox.io)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
-- [Nuxt — GitHub](https://github.com/nuxt/framework)
-- [Nuxt — Docs](https://nuxtjs.org/docs)
